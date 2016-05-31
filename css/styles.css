@@ -1,0 +1,24 @@
+#initially-showing {
+  display: none;
+}
+#lion-showing {
+  display: none;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+.lionclick {
+  cursor: pointer;
+  color: blue;
+}
+
+.lionclick:hover {
+  text-decoration: underline;
+}
